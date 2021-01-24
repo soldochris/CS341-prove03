@@ -29,12 +29,12 @@
           echo "
           <div class='col mb-4'>
             <form class='card' method='POST' action='browse.php'>
-              <img src='{$product["img"]}' class='card-img-top' alt='{$product[name]}'>
+              <img src='{$product["img"]}' class='card-img-top' alt='{$product["name"]}'>
               <div class='card-body'>
-                <h2 class='card-title'>{$product[name]}</h2>
-                <p class='card-subtitle text-success'>Price: \${$product[price]}</p>
-                <p class='card-text'>{$product[description]}.</p>
-                <input type='hidden' name='product' value='{$product[id]}'>
+                <h2 class='card-title'>{$product["name"]}</h2>
+                <p class='card-subtitle text-success'>Price: \${$product["price"]}</p>
+                <p class='card-text'>{$product["description"]}.</p>
+                <input type='hidden' name='product' value='{$product["id"]}'>
                 <input type='submit' name='add' value='Add to Cart' class='btn btn-primary'>
               </div>
             </form>
