@@ -1,0 +1,281 @@
+[{
+  "id": 1,
+  "name": "Jelly Belly",
+  "price": 9,
+  "category": "food",
+  "img": "img/products/1.jpg",
+  "description": "pack of 4 deliciuos jelly belly candies"
+}, {
+  "id": 2,
+  "name": "Skin Creme",
+  "price": 15,
+  "category": "cosmetic",
+  "img": "img/products/2.jpg",
+  "description": "Retinol repair skincare creme"
+}, {
+  "id": 3,
+  "name": "Chanel Perfume",
+  "price": 150,
+  "category": "cosmetic",
+  "img": "img/products/3.jpg",
+  "description": "Gabrielle Chanel perfume"
+}, {
+  "id": 4,
+  "name": "Puma sneakers",
+  "price": 40,
+  "category": "sneakers",
+  "img": "img/products/4.jpg",
+  "description": "A pair of gray Puma sneakers"
+}, {
+  "id": 5,
+  "name": "Woman jacket",
+  "price": 35,
+  "category": "clothes",
+  "img": "img/products/5.jpg",
+  "description": "A beautiful brown jacket for women"
+}, {
+  "id": 6,
+  "name": "Chanel Perfume",
+  "price": 100,
+  "category": "cosmetic",
+  "img": "img/products/6.jpg",
+  "description": "Gabrielle Chanel perfume"
+}, {
+  "id": 7,
+  "name": "Wallet for Woman",
+  "price": 25,
+  "category": "accessories",
+  "img": "img/products/7.jpg",
+  "description": "A nice red wallet for woman"
+}, {
+  "id": 8,
+  "name": "Chanel Perfume",
+  "price": 120,
+  "category": "cosmetic",
+  "img": "img/products/8.jpg",
+  "description": "Gabrielle Chanel perfume"
+}, {
+  "id": 9,
+  "name": "Dodge Challenger",
+  "price": 50000,
+  "category": "cars",
+  "img": "img/products/9.jpg",
+  "description": "Black Dodge Challenger SRT"
+}, {
+  "id": 10,
+  "name": "Givenchy pack",
+  "price": 200,
+  "category": "cosmetic",
+  "img": "img/products/10.jpg",
+  "description": "Set of three Givenchy products"
+}, {
+  "id": 11,
+  "name": "Coffee pot",
+  "price": 50,
+  "category": "appliance",
+  "img": "img/products/11.jpg",
+  "description": "A modern black coffee pot"
+}, {
+  "id": 12,
+  "name": "Body oil",
+  "price": 18,
+  "category": "cosmetic",
+  "img": "img/products/12.jpg",
+  "description": "Organic body oil"
+}, {
+  "id": 13,
+  "name": "Makeup Face Removal",
+  "price": 20,
+  "category": "cosmetic",
+  "img": "img/products/13.jpg",
+  "description": "Reusable Cotton Pads for Makeup Face Removal by EcoPanda"
+}, {
+  "id": 14,
+  "name": "Barber set",
+  "price": 22,
+  "category": "cosmetic",
+  "img": "img/products/14.jpg",
+  "description": "A complete barber set"
+}, {
+  "id": 15,
+  "name": "Iphone 7 plus",
+  "price": 650,
+  "category": "smartphones",
+  "img": "img/products/15.jpg",
+  "description": "Black Iphone 7 plus 128gb"
+}, {
+  "id": 16,
+  "name": "Blue and pink women shoes",
+  "price": 130,
+  "category": "shoes",
+  "img": "img/products/16.jpg",
+  "description": "A pair of blue and pink women shoes"
+}, {
+  "id": 17,
+  "name": "Nike sneakers",
+  "price": 100,
+  "category": "sneakers",
+  "img": "img/products/17.jpg",
+  "description": "A pair of gray Nike running sneakers"
+}, {
+  "id": 18,
+  "name": "Stickers pack",
+  "price": 15,
+  "category": "art",
+  "img": "img/products/18.jpg",
+  "description": "Pack of 100 Automatic stickers"
+}, {
+  "id": 19,
+  "name": "Lumix GH5",
+  "price": 1600,
+  "category": "cameras",
+  "img": "img/products/19.jpg",
+  "description": "Camera Lumix GH5"
+}, {
+  "id": 20,
+  "name": "Vintage Camera",
+  "price": 800,
+  "category": "cameras",
+  "img": "img/products/20.jpg",
+  "description": "Vintage film camera black and white"
+}, {
+  "id": 21,
+  "name": "Iphone 6s",
+  "price": 220,
+  "category": "smartphones",
+  "img": "img/products/21.jpg",
+  "description": "Rose gold Iphone 6s"
+}, {
+  "id": 22,
+  "name": "Iphone 7",
+  "price": 650,
+  "category": "smartphones",
+  "img": "img/products/22.jpg",
+  "description": "Black Iphone 7"
+}, {
+  "id": 23,
+  "name": "Photo album",
+  "price": 13,
+  "category": "art",
+  "img": "img/products/23.jpg",
+  "description": "A beige classic photo album"
+}, {
+  "id": 24,
+  "name": "Adidas sneakers",
+  "price": 250,
+  "category": "sneakers",
+  "img": "img/products/24.jpg",
+  "description": "Pair of black and white Adidas sneakers"
+}, {
+  "id": 25,
+  "name": "Brown bag",
+  "price": 70,
+  "category": "accessories",
+  "img": "img/products/25.jpg",
+  "description": "Brown urban bag"
+}, {
+  "id": 26,
+  "name": "Apple earpods",
+  "price": 160,
+  "category": "accessories",
+  "img": "img/products/26.jpg",
+  "description": "White Apple earpods"
+}, {
+  "id": 27,
+  "name": "Sony Xperia Z",
+  "price": 200,
+  "category": "smartphone",
+  "img": "img/products/27.jpg",
+  "description": "Black Water Proof Sony Xperia Z"
+}, {
+  "id": 28,
+  "name": "Drone Dji Spark",
+  "price": 450,
+  "category": "drones",
+  "img": "img/products/28.jpg",
+  "description": "Black Drone Dji Spark"
+}, {
+  "id": 29,
+  "name": "DW watch",
+  "price": 100,
+  "category": "accessories",
+  "img": "img/products/29.jpg",
+  "description": "Silver analog DW watch"
+}, {
+  "id": 30,
+  "name": "White sunglasses",
+  "price": 35,
+  "category": "accessories",
+  "img": "img/products/30.jpg",
+  "description": "White sunglasses"
+}, {
+  "id": 31,
+  "name": "Ray Ban sunglasses",
+  "price": 45,
+  "category": "accessories",
+  "img": "img/products/31.jpg",
+  "description": "black Ray Ban sunglasses"
+}, {
+  "id": 32,
+  "name": "Dental Floss",
+  "price": 4,
+  "category": "cosmetic",
+  "img": "img/products/32.jpg",
+  "description": "Oral-B dental floss"
+}, {
+  "id": 33,
+  "name": "iPhone XR",
+  "price": 550,
+  "category": "smartphones",
+  "img": "img/products/33.jpg",
+  "description": "Blue iPhone XR"
+}, {
+  "id": 34,
+  "name": "Fujifilm XT2",
+  "price": 1500,
+  "category": "cameras",
+  "img": "img/products/34.jpg",
+  "description": "Fujifilm XT2"
+}, {
+  "id": 35,
+  "name": "Yellow knit beanie",
+  "price": 11,
+  "category": "accessories",
+  "img": "img/products/35.jpg",
+  "description": "Yellow knit beanie"
+}, {
+  "id": 36,
+  "name": "DW watch",
+  "price": 90,
+  "category": "accessories",
+  "img": "img/products/36.jpg",
+  "description": "Brown DW watch"
+}, {
+  "id": 37,
+  "name": "Jordan sneakers",
+  "price": 250,
+  "category": "sneakers",
+  "img": "img/products/37.jpg",
+  "description": "White Jordan sneakers"
+}, {
+  "id": 38,
+  "name": "Crossbody bag",
+  "price": 120,
+  "category": "accessories",
+  "img": "img/products/38.jpg",
+  "description": "Black crossbody bag"
+}, {
+  "id": 39,
+  "name": "Facial mask",
+  "price": 5,
+  "category": "cosmetic",
+  "img": "img/products/39.jpg",
+  "description": "Aloe vera facial mask"
+}, {
+  "id": 40,
+  "name": "Golden sunglasses",
+  "price": 5,
+  "category": "accessories",
+  "img": "img/products/40.jpg",
+  "description": "Golden sunglasses"
+}]

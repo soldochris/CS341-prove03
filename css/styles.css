@@ -1,0 +1,10 @@
+@import "bootstrap.css";
+
+.img-thumbnail{
+  max-width: 5em;
+  max-width: 7em;
+}
+
+.badge-warning, .badge-success{
+  font-size: 1em;
+}
