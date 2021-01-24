@@ -29,7 +29,7 @@
           echo "
           <div class='col mb-4'>
             <form class='card' method='POST' action='browse.php'>
-              <img src='{$product[img]}' class='card-img-top' alt='{$product[name]}'>
+              <img src='{$product["img"]}' class='card-img-top' alt='{$product[name]}'>
               <div class='card-body'>
                 <h2 class='card-title'>{$product[name]}</h2>
                 <p class='card-subtitle text-success'>Price: \${$product[price]}</p>
