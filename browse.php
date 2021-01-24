@@ -26,7 +26,6 @@
         $products = json_decode($string,true);
 
         foreach ($products as $product){
-          list($img, $apellido) = $product;
           echo "
           <div class='col mb-4'>
             <form class='card' method='POST' action='browse.php'>
